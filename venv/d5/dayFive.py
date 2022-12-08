@@ -1,3 +1,4 @@
+# NOT FINISHED
 cargoF = open("venv/d5/cargo.txt","r")
 
 input = cargoF.readlines()
