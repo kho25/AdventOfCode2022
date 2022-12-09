@@ -72,7 +72,7 @@ for i in range(len(directSizes)):
     if directSizes[i] <= 100000:
         sumNum += directSizes[i]
 #ANSWER TO PT1
-print(sumNum)
+print("PT1 ans: " + str(sumNum))
 
 directSizes.sort()
 
